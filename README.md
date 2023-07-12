@@ -7,6 +7,9 @@ This project presents an innovative automotive spotlight system utilizing ultra-
 Components for Automotive Spotlight:
 
 1- ESP32 UWB Microcontrollers (4x): These microcontrollers, such as the ESP32 UWB module, serve as the core processing units for the spotlight system. They integrate the necessary UWB functionality, enabling precise positioning and tracking of the user within the vehicle. The ESP32 microcontrollers handle UWB signal processing, communication with UWB transceivers, and coordinate the spotlight's movement and rotation.
+![unnamed](https://github.com/Ahmedaltu/TrackLight/assets/76178825/82e186de-1d09-43df-8c4e-96163715ab02)
+
+
 
 2- HLS8L-DC3V-S-C Relay: This relay serves as the interface between the ESP32 microcontrollers and the RF remote control system of the spotlight. The relay allows the microcontrollers to control the on/off and rotation functionality of the spotlight, based on the user's position and commands received from the RF remote control.
 3- RF Remote Control: The RF remote control device enables manual control over the spotlight's on/off functionality and rotation. It communicates wirelessly with the ESP32 microcontrollers via the relay, providing a convenient means for users to override the automated tracking system and adjust the spotlight as desired.
