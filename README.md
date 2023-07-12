@@ -7,6 +7,8 @@ This project presents an innovative automotive spotlight system utilizing ultra-
 Components for Automotive Spotlight:
 
 1- ESP32 UWB Microcontrollers (4x): These microcontrollers, such as the ESP32 UWB module, serve as the core processing units for the spotlight system. They integrate the necessary UWB functionality, enabling precise positioning and tracking of the user within the vehicle. The ESP32 microcontrollers handle UWB signal processing, communication with UWB transceivers, and coordinate the spotlight's movement and rotation.
+
+
 ![unnamed](https://github.com/Ahmedaltu/TrackLight/assets/76178825/82e186de-1d09-43df-8c4e-96163715ab02)
 
 
