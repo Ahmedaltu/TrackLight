@@ -20,3 +20,7 @@ Components for Automotive Spotlight:
 
 
 Overall, this component framework integrates the ESP32 UWB microcontrollers, UWB transceivers, HLS8L-DC3V-S-C relay, RF remote control, and rotating spotlight to create an advanced automotive spotlight system. The system combines UWB tracking technology with manual control options, enhancing the user experience by providing personalized and dynamic lighting within the vehicle.
+
+
+![Screenshot 2023-09-16 220714](https://github.com/Ahmedaltu/TrackLight/assets/76178825/b007925a-ab18-48df-9e02-31b8c7060736)
+
