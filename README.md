@@ -17,7 +17,7 @@ Components for Automotive Spotlight:
 3- RF Remote Control: The RF remote control device enables manual control over the spotlight's on/off functionality and rotation. It communicates wirelessly with the ESP32 microcontrollers via the relay, providing a convenient means for users to override the automated tracking system and adjust the spotlight as desired.
 
 4- Rotating Spotlight: The spotlight itself consists of a high-quality lighting module capable of rotating and adjusting its direction. The ESP32 microcontrollers control the spotlight's rotation based on the user's position and movement tracked by the UWB system. The rotating spotlight ensures that the user is illuminated effectively, regardless of their location within the vehicle.
-
+![Screenshot 2023-09-16 221154](https://github.com/Ahmedaltu/TrackLight/assets/76178825/a3e906d2-9e0c-47f2-babd-c8bae00f942d)
 
 Overall, this component framework integrates the ESP32 UWB microcontrollers, UWB transceivers, HLS8L-DC3V-S-C relay, RF remote control, and rotating spotlight to create an advanced automotive spotlight system. The system combines UWB tracking technology with manual control options, enhancing the user experience by providing personalized and dynamic lighting within the vehicle.
 
@@ -26,6 +26,6 @@ Overall, this component framework integrates the ESP32 UWB microcontrollers, UWB
 ![Screenshot 2023-09![Screenshot 2023-09-16 221026](https://github.com/Ahmedaltu/TrackLight/assets/76178825/232a21e4-4a0a-40b2-b6d4-d697495b4462)
 -16 220851](https://github.com/Ahmedaltu/TrackLight/assets/76178825/66a01c80-8e5c-458e-ada0-5db485f8fc90)
 ![Screenshot 2023-09-16 221108](https://github.com/Ahmedaltu/TrackLight/assets/76178825/3719c5d2-4313-464e-9949-51f962e314fb)
-![Screenshot 2023-09-16 221154](https://github.com/Ahmedaltu/TrackLight/assets/76178825/a3e906d2-9e0c-47f2-babd-c8bae00f942d)
+
 
 
