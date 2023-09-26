@@ -8,8 +8,8 @@ Components for Automotive Spotlight:
 
 1- ESP32 UWB Microcontrollers (4x): These microcontrollers, such as the ESP32 UWB module, serve as the core processing units for the spotlight system. They integrate the necessary UWB functionality, enabling precise positioning and tracking of the user within the vehicle. The ESP32 microcontrollers handle UWB signal processing, communication with UWB transceivers, and coordinate the spotlight's movement and rotation.
 
+![Screenshot 2023-09-16 221108](https://github.com/Ahmedaltu/TrackLight/assets/76178825/3719c5d2-4313-464e-9949-51f962e314fb)
 
-![unnamed](https://github.com/Ahmedaltu/TrackLight/assets/76178825/82e186de-1d09-43df-8c4e-96163715ab02)
 
 
 
@@ -25,7 +25,7 @@ Overall, this component framework integrates the ESP32 UWB microcontrollers, UWB
 ![Screenshot 2023-09-16 220714](https://github.com/Ahmedaltu/TrackLight/assets/76178825/b007925a-ab18-48df-9e02-31b8c7060736)
 ![Screenshot 2023-09![Screenshot 2023-09-16 221026](https://github.com/Ahmedaltu/TrackLight/assets/76178825/232a21e4-4a0a-40b2-b6d4-d697495b4462)
 -16 220851](https://github.com/Ahmedaltu/TrackLight/assets/76178825/66a01c80-8e5c-458e-ada0-5db485f8fc90)
-![Screenshot 2023-09-16 221108](https://github.com/Ahmedaltu/TrackLight/assets/76178825/3719c5d2-4313-464e-9949-51f962e314fb)
 
 
+![unnamed](https://github.com/Ahmedaltu/TrackLight/assets/76178825/82e186de-1d09-43df-8c4e-96163715ab02)
 
